@@ -1,0 +1,8 @@
+# Ignore app.env file for environment variables
+app.env
+
+# Ignore other common files/folders
+*.log
+*.tmp
+node_modules/
+*.swp
